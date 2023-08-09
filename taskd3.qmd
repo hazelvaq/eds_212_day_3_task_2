@@ -1,0 +1,15 @@
+---
+title: "eds212_day3_task"
+format: html
+editor: visual
+---
+
+```{r}
+vec_a = c(1,6)
+vec_b = c(2,4)
+
+vec_a + vec_b
+vec_b - vec_b 
+4*vec_a
+vec_a%*%vec_b
+```
